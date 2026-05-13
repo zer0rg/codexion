@@ -9,6 +9,7 @@ SRCS = $(SRCDIR)/main.c \
        $(SRCDIR)/logger.c \
        $(SRCDIR)/scheduler.c \
        $(SRCDIR)/dongle.c \
+       $(SRCDIR)/threads.c \
        $(SRCDIR)/coder.c \
        $(SRCDIR)/monitor.c \
        $(SRCDIR)/simulation.c
